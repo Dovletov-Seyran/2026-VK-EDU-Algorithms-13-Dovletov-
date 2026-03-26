@@ -1,0 +1,17 @@
+*.o
+*.out
+*.exe
+a.out
+
+main
+app
+
+.DS_Store
+.AppleDouble
+.LSOverrideP
+
+.vscode/
+
+build/
+CMakeCache.txt
+CMakeFiles/
