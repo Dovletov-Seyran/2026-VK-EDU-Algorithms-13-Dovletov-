@@ -5,6 +5,8 @@ a.out
 
 main
 app
+huffman
+compressed.bin
 
 .DS_Store
 .AppleDouble
