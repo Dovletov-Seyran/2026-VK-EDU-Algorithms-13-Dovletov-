@@ -1,0 +1,7 @@
+cat > input.txt << 'EOF'
+hello world hello world hello world
+this is a test of huffman compression
+the quick brown fox jumps over the lazy dog
+the quick brown fox jumps over the lazy dog
+abracadabra abracadabra abracadabra
+EOF
